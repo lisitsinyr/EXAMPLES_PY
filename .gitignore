@@ -5,6 +5,7 @@
 .env/*
 .venv/*
 .vscode/*
+.vs/*
 # VS Code
 *.code-workspace
 # PyCharm
