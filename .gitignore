@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+
+# Environments
+.env
+env/
+.venv
+venv/
+
+# PyCharm
+.idea
+.idea/
+
+RE/LOG
+RE/LOG/
+
+Replace if-else Statements/LOG
+Replace if-else Statements/LOG/
+Replace if-else Statements/!
+Replace if-else Statements/!/
