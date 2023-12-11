@@ -1,14 +1,49 @@
+# ----------------------------------------------------------------
 # Byte-compiled / optimized / DLL files
+
+# GIT
+.gitignore
+.gitmodules
+CreateGIT.bat
 
 # Environments
 .env
-env/
+.env/
+.env.bak/
+
 .venv
-venv/
+.venv/
+.venv.bak/
+
+# Каталоги
+EXE
+EXE/
+LOG
+LOG/
+WORK
+WORK/
+out
+out/
+!DOC
+!DOC/
+# Файлы
+*.exe
+*.spec
+*.log
+GIT_CONFIG
+
+# VS Code
+*.code-workspace
+.vscode
+.vscode/
 
 # PyCharm
 .idea
 .idea/
+
+__pycache__/
+
+# ----------------------------------------------------------------
 
 RE/LOG
 RE/LOG/
@@ -17,3 +52,5 @@ Replace if-else Statements/LOG
 Replace if-else Statements/LOG/
 Replace if-else Statements/!
 Replace if-else Statements/!/
+
+# ----------------------------------------------------------------
