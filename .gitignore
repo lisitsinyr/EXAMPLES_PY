@@ -9,7 +9,8 @@
 # VS Code
 *.code-workspace
 # PyCharm
-.idea/*
+.idea/.name
+.idea/
 
 # Каталоги
 EXE/*
