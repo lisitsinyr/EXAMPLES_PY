@@ -31,7 +31,7 @@ import LUConst
 from LUDoc import *
 
 #------------------------------------------
-# EXAMPLE_01
+# EXAMPLE_01 ssh pycharm
 #------------------------------------------
 def EXAMPLE_01 ():
     """EXAMPLE_01"""
