@@ -10,7 +10,7 @@ __pycache__/
 GIT_CONFIG*
 config*
 *.log
-/*.bat
+lyrgit*.bat
 
 ### КАТАЛОГИ ###
 clickers/
