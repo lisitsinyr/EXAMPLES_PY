@@ -10,14 +10,7 @@ __pycache__/
 GIT_CONFIG*
 config*
 *.log
-lyrgit*.bat
+*.bat
 
 ### КАТАЛОГИ ###
-clickers/
 LOGS/
-LOG/
-RE/
-Replace if-else Statements/
-out/
-EXE/
-WORK/
