@@ -26,9 +26,9 @@ import re
 #------------------------------------------
 # БИБЛИОТЕКА LU
 #------------------------------------------
-import LULog
-import LUConst
-from LUDoc import *
+import lyrpy.LULog as LULog
+import lyrpy.LUConst as LUConst
+from lyrpy.LUDoc import *
 
 #------------------------------------------
 # EXAMPLE_01 ssh pycharm !!!!!!!!!!!!!!!!!!!!!!
